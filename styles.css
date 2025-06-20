@@ -1,0 +1,19 @@
+h1{
+    color:maroon;
+    text-align: center;
+    font-family:fantasy;
+    font-weight: 900;
+}
+body{
+    background-image: url("https://media.istockphoto.com/id/1282140880/photo/happy-asian-female-college-student-smiling-at-camera-on-yellow-background-and-copy-space.jpg?s=612x612&w=0&k=20&c=24liclh4T3PC3u7_uHzERooS1cHczjcSa7TKLP_N-aM=");
+    background-repeat:no-repeat;
+    background-size:contain;
+    background-position: right;
+    background-color:orange;
+}
+div{
+    margin: 1px;
+    height: 2px;
+    width: 100%;
+    background-color:brown;
+}
